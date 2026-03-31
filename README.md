@@ -159,7 +159,7 @@ Thorbok Tech is a research-driven deep tech company focused on:
 
 - 🌐 Website: https://thorboktech.io  
 - 📄 Research DOI: https://doi.org/10.5281/zenodo.19340477  
-- 🚀 Product Hunt: [(add link) ](https://www.producthunt.com/products/thorbok-tech) 
+- 🚀 [Product Hunt:](https://www.producthunt.com/products/thorbok-tech) 
 
 ---
 
