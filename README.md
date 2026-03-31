@@ -1,5 +1,15 @@
 # YANN S — Secure Intelligent Access System
 
+## Deep Tech Cybersecurity Infrastructure
+
+**Identity-based security. Hardware-rooted trust. AI-powered protection.**
+
+---
+
+🚀 Developed by Thorbok Tech  
+🔬 Research-driven innovation  
+🌍 Global cybersecurity vision
+
 ## Overview
 
 YANN S is a next-generation cybersecurity system developed by Thorbok Tech.
@@ -46,7 +56,7 @@ Security becomes:
 
 Full research overview available here:
 
-📄 **YANN S Research Overview (PDF)**
+📄 [Download YANN S Research Overview (PDF)](./YANN_S_Cybersecurity_Research_Overview.pdf)
 
 ## Vision
 
@@ -86,9 +96,9 @@ Unauthorized use or reproduction is prohibited.
 ## Links
 
 - Website: https://thorboktech.io  
-- Research DOI: (add Zenodo link)  
+- Research DOI: https://doi.org/10.5281/zenodo.19340477 
 - Product Hunt: (add link)  
 
 ## Final Statement
 
-**“Your Identity Is the Key. Your Security Is Absolute.”**
+**“Security must evolve from access control to identity intelligence.”**
