@@ -1,10 +1,4 @@
 # YANN S — Secure Intelligent Access System
-> A next-generation cybersecurity system redefining digital identity and protection.
-![Status](https://img.shields.io/badge/status-research-blue)
-![Field](https://img.shields.io/badge/field-cybersecurity-red)
-![Tech](https://img.shields.io/badge/tech-AI%20%2B%20hardware-orange)
-![Stage](https://img.shields.io/badge/stage-concept-green)
-![License](https://img.shields.io/badge/license-proprietary-lightgrey)
 
 ## Deep Tech Cybersecurity Infrastructure
 
