@@ -8,97 +8,161 @@
 
 🚀 Developed by Thorbok Tech  
 🔬 Research-driven innovation  
-🌍 Global cybersecurity vision
+🌍 Global cybersecurity vision  
+
+---
 
 ## Overview
 
-YANN S is a next-generation cybersecurity system developed by Thorbok Tech.
+YANN S is a next-generation cybersecurity architecture designed to redefine how digital systems are secured.
 
-It introduces a paradigm shift from password-based security to identity-based, hardware-rooted, and AI-driven protection.
+It introduces a paradigm shift from credential-based security to a system built on:
 
-This research explores a multi-layer architecture combining:
+- identity  
+- hardware-rooted trust  
+- artificial intelligence  
 
-- Embedded hardware security (YS Core)
-- Biometric authentication
-- AI behavioral intelligence (TB AI)
-- Real-time intrusion detection and response
+This research presents a multi-layer cybersecurity model integrating:
+
+- Embedded hardware security (YS Core)  
+- Biometric identity verification  
+- AI behavioral intelligence (TB AI)  
+- Real-time threat detection and response  
+
+---
 
 ## The Problem
 
-Cybersecurity systems today are fundamentally broken:
+Modern cybersecurity systems are structurally vulnerable.
 
-- Passwords are vulnerable  
-- 2FA can be bypassed  
+- Passwords are exposed and reusable  
+- Multi-factor authentication can be bypassed  
 - Identity theft is increasing globally  
-- Systems rely on what users know, not who they are  
+- Security relies on credentials, not identity  
+
+👉 Current systems validate access, but fail to validate identity continuously.
+
+---
 
 ## The Solution
 
-YANN S replaces traditional authentication with:
+YANN S introduces a new security paradigm:
 
-→ Identity-based security  
-→ Hardware-level trust  
-→ Continuous AI verification  
+→ Identity-based authentication  
+→ Hardware-level trust anchoring  
+→ Continuous AI-driven verification  
 
 Security becomes:
 
 **continuous, intelligent, and non-transferable**
 
+---
+
+## System Architecture
+
+YANN S is structured as a multi-layer system:
+
+- YS Core — hardware root of trust  
+- Biometric Identity Layer  
+- TB AI — behavioral intelligence engine  
+- Decision Engine  
+- Real-time Response System  
+
+---
+
+## Architecture Model
+
+YANN S operates as a continuous security loop:
+
+**Access → Identity Verification → Behavioral Analysis → Decision → Response**
+
+This closed-loop architecture ensures:
+
+- real-time identity validation  
+- immediate anomaly detection  
+- continuous protection across system usage  
+
+---
+
 ## Key Innovation
 
-- Hardware root of trust (YS Core)
-- Multi-layer biometric authentication
-- AI behavioral analysis
-- Real-time decision engine
-- Cross-device security ecosystem
+YANN S combines three traditionally separate domains into a unified system:
+
+- hardware security  
+- biometric authentication  
+- artificial intelligence  
+
+Key innovations include:
+
+- Hardware root of trust (YS Core)  
+- Multi-layer biometric authentication  
+- AI behavioral modeling  
+- Real-time decision engine  
+- Cross-device security ecosystem  
+
+---
 
 ## Research Document
 
-Full research overview available here:
-
 📄 [Download YANN S Research Overview (PDF)](./YANN_S_Cybersecurity_Research_Overview.pdf)
+
+---
+
+## Applications
+
+YANN S is designed for high-impact environments:
+
+- Banking & financial systems  
+- Government & defense infrastructure  
+- Enterprise cybersecurity  
+- Personal digital identity protection  
+- Scientific and research environments  
+
+---
 
 ## Vision
 
 To establish a global cybersecurity standard where:
 
 → Identity replaces passwords  
-→ Hardware ensures trust  
-→ AI protects continuously  
+→ Hardware guarantees trust  
+→ Artificial intelligence ensures continuous protection  
 
-## Applications
+---
 
-- Banking & financial systems  
-- Government & defense  
-- Enterprise security  
-- Consumer protection  
-- Research & innovation  
+## Project Status
 
-## Author
-
-Mason Ewing  
-Founder — Thorbok Tech  
-
-## Organization
-
-Thorbok Tech — Deep Tech Research & Innovation Company  
-
-## Status
-
-Research / Concept Phase  
+Research Phase  
 Prototype development planned  
+
+---
 
 ## Intellectual Property
 
-This concept is protected under intellectual property laws.  
-Unauthorized use or reproduction is prohibited.
+Provisional patent in progress.  
+All rights reserved — Thorbok Tech.  
+
+---
+
+## About Thorbok Tech
+
+Thorbok Tech is a research-driven deep tech company focused on:
+
+- cybersecurity  
+- wearable interfaces  
+- artificial intelligence  
+- human-computer interaction  
+
+---
 
 ## Links
 
-- Website: https://thorboktech.io  
-- Research DOI: https://doi.org/10.5281/zenodo.19340477 
-- Product Hunt: (add link)  
+- 🌐 Website: https://thorboktech.io  
+- 📄 Research DOI: https://doi.org/10.5281/zenodo.19340477  
+- 🚀 Product Hunt: [(add link) ](https://www.producthunt.com/products/thorbok-tech) 
+
+---
 
 ## Final Statement
 
-**“Security must evolve from access control to identity intelligence.”**
+**“Cybersecurity must evolve from access control to identity intelligence.”**
