@@ -1,4 +1,4 @@
-# YANN S — Secure Intelligent Access System
+# YANN s — Secure Intelligent Access System
 
 ## Deep Tech Cybersecurity Infrastructure
 
